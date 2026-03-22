@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sound of Waves",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-03-22T05:56:26.587941Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sound of Waves",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_Sound_of_Waves_She_is_Legend.txt"
+    }
+  ]
+}
